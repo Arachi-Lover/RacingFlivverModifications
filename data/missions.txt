@@ -27,8 +27,8 @@ mission "Racing Flivver Modifications - Available"
 			`	You swiftly fly the <ship> to the Renard estate, and set down on the same landing pad you were on when you last came here, and were given the Racing Flivver.`
 			`	Artemis is waiting for you, and welcomes you with a hug. "Good to see you again, Captain <last>! I trust you and my old ride have been treating each other well?"`
 			choice
-				`	"Very well. The <ship> is very impressive, probably the fastest ship I ever flown!"`
-				`	"It's smaller and more fragile than other ships I've used, but it's definetly got its perks. I can see the appeal in all that speed!"`
+				`	"Very well. The <ship> is very impressive, probably the fastest ship I have ever flown!"`
+				`	"It's smaller and more fragile than other ships I've used, but it's definitely got its perks. I can see the appeal in all that speed!"`
 			`	She smiles. "I'm glad to hear it. Come, let's head on inside, I'd love to swap flight stories!"`
 			`	Artemis leads you into the vast, oppulent mansion of the Renard family, and shows you around the main rooms and halls, as you two talk about different routes you've taken the <ship> in. She becomes both nostalgic and giddy as she shows you recordings of her highlights flying the ship in various races.`
 			`	After a feast of a lunch, Artemis pulls closer. "So, listen... I know I mentioned before that the <ship> isn't as fast as it used to be anymore - but I was thinking, since you're not a racer, perhaps there are other ways it could be modified, that would be more useful for you, even if we can't modify it to be the fastest in the galaxy anymore."`
@@ -60,7 +60,7 @@ mission "Racing Flivver Modifications - Navy Grade Plating"
 				outfit "RFM - Navy Grade Plating" 1
 			`	You fly to the coordinates, landing on on one of the various pads on the workshop grounds. The shipwright greets you, and shakes your hand firmly. "We usually only work on ships commissioned for government officials, Parliament members and the like, but the Renards are full of connections, so we worked on the <ship> many times too."`
 			`	He has his team work on the ship at once, and they spend most of the day carefully swapping out the armor plates for shiny, tough-looking great plates he mentions are made for composing the hulls of Navy warships.`
-			`	After giving him their payment you thank him and his team after the process is finished, and fly the <ship> back to the main landing pads of the city.`
+			`	After the process is finished, you give him and his team their payment and thank them, before flying the <ship> back to the main landing pads of the city.`
 				decline
 
 mission "Racing Flivver Modifications - Hidden Compartments"
