@@ -59,7 +59,7 @@ mission "Racing Flivver Modifications - Navy Grade Plating"
 				payment -1103000
 				outfit "RFM - Navy Grade Plating" 1
 			`	You fly to the coordinates, landing on on one of the various pads on the workshop grounds. The shipwright greets you, and shakes your hand firmly. "We usually only work on ships commissioned for government officials, Parliament members and the like, but the Renards are full of connections, so we worked on the <ship> many times too."`
-			`	He has his team work on the ship at once, and they spend most of the day carefully swapping out the armor plates for shiny, tough-looking great plates he mentions are made for composing the hulls of Navy warships.`
+			`	He has his team work on the ship at once, and they spend most of the day carefully swapping out the armor plates for shiny, tough-looking great plates he mentions are made for composing the hulls of Navy warships. "By the way, I also had some leftover ramscoop components, and had an idea. The men and I designed some simpler, smaller versions, and incorporated them into the plating of the wings. Should give you a decent boost to fuel collection."`
 			`	After the process is finished, you give him and his team their payment and thank them, before flying the <ship> back to the main landing pads of the city.`
 				decline
 

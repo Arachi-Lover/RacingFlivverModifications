@@ -6,10 +6,11 @@ outfit "RFM - Navy Grade Plating"
 	"cost" 1103000
 	"mass" 5
 	"hull" 70
+	"ramscoop" 0.5
 	"unique" 1
 	"unplunderable" 1
 	"rfm" -1
-	description "This modification refurbishes the Racing Flivver with state-of-the-art hull plating, intended for use in Navy warships."
+	description "This modification refurbishes the Racing Flivver with state-of-the-art hull plating, intended for use in Navy warships. Additionally, micro-ramscoops have been added to the wings, bolstering the ship's fuel collection."
 
 outfit "RFM - Hidden Compartments"
 	category "Unique"
