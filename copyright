@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: RacingFlivverModifications
+Upstream-Contact: Arachi <https://github.com/Arachi-Lover>
+Source: https://github.com/Arachi-Lover/RacingFlivverModifications
+
+Copyright: Arachi <https://github.com/Arachi-Lover>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ icon*.png
+Copyright: Arachi <https://github.com/Arachi-Lover>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Daeridanii and Becca Tommaso.
